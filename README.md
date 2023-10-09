@@ -8,5 +8,16 @@ The code prompts you to enter your name and a word that you want to search from 
 2. In the dropdown menu, left click on the "downlad zip" option
 3. Once the file is downloaded, unzip it into your desired folder
 4. Once unzipped, open the code in any code editor (Visual studio code for example)
+5. Run the code and answer the promts
+6. Enjoy!
+
+## How to contribute
+1. Press the fork button
+2. Copy the SSH link into your terminal
+3. Edit the file
+4. Request a pull request
+   
+=======
 5. 
+
 By Nick Chin and Theresa Vazapphilly 
