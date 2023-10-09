@@ -12,4 +12,9 @@ The code prompts you to enter your name and a wrd that you want to search from t
 6. Enjoy!
 
 ## How to contribute
+1. Press the fork button
+2. Copy the SSH link into your terminal
+3. Edit the file
+4. Request a pull request
+   
 By Nick Chin and Theresa Vazapphilly 
