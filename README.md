@@ -16,8 +16,8 @@ The code prompts you to enter your name and a word that you want to search from 
 2. Copy the SSH link into your terminal
 3. Edit the file
 4. Request a pull request
+5. Add a description of the changes you want to make
    
-=======
-5. 
+======= 
 
 By Nick Chin and Theresa Vazapphilly 
